@@ -12,6 +12,10 @@
       "url": "https://github.com/reg2005/formbulder"
     }
   ],
+  "require": {
+        "components/bootstrap": "^3.3",
+        "robloach/component-installer": "^0.2.3"
+  },
   "authors": [
     {
       "name": "reg2005",
