@@ -1,0 +1,28 @@
+{
+  "name": "reg2005/formbulder",
+  "description": "Graphical UI form builder for the web.",
+  "version": "0.2.1",
+  "type": "component",
+  "keywords": ["seo", "keywords", "tags"],
+  "homepage": "https://github.com/reg2005/formbulder",
+  "license": "MIT",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/reg2005/formbulder"
+    }
+  ],
+  "authors": [
+    {
+      "name": "reg2005",
+      "email": "cmp08@ya.ru"
+    },
+    {
+	  "name": "ajb",
+	  "email": "ad@mbecker.cc"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/reg2005/formbulder/issues"
+  }
+}
